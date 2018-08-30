@@ -23,4 +23,4 @@ github:
   repo:           https://github.com/datacarpentry/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
